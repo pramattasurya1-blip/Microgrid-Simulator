@@ -1,6 +1,6 @@
 # Microgrid-Simulator
 
-A high-fidelity, 7-day chronological microgrid simulation modeling
+A modular chronological 7-day chronological microgrid simulation modeling
 shared rooftop solar arrays, centralized commercial battery storage,
 dynamic apartment loads, and utility grid interaction.
 
